@@ -9,10 +9,9 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 ## A - C
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
-- [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
 
 ## D - F
-- [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
+- [drchrono](https://www.drchrono.com/careers/) | Mountain View, CA | Online test & on-site coding project
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 
 ## G - I
@@ -35,7 +34,6 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 ## S - U
 - [Slack](https://slack.com/jobs) | San Francisco, CA
-- [Shopify](https://www.shopify.com/careers) | Canada
 
 ## V - X
 - replace me
